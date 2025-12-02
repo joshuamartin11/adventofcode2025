@@ -1,4 +1,4 @@
-filename = "C:/Users/Josh/Desktop/AdventOfCode/D1/input.txt"
+filename = "C:/Users/Josh/Documents/AdventOfCode/adventofcode2025/D1/input.txt"
 
 dialLoc = 50
 password = 0
