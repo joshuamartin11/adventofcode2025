@@ -13,7 +13,6 @@ with open(filename,'r') as file:
                 for i in range(len(string)):
                     subString = string[:i + 1]
                     testString = subString
-
                     while len(testString) < len(string) and not found:
                         testString = testString + subString
                         if testString == string:
